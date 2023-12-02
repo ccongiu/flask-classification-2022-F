@@ -9,5 +9,6 @@ conf = Configuration()
 
 
 class HistogramForm(FlaskForm):
+
     image = SelectField('image', choices=list_images(), validators=[DataRequired()])
     submit = SubmitField('Submit')
