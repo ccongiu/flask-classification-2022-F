@@ -1,4 +1,4 @@
-# Web server for image classification
+# Web server for image classification and histogram analysis
 
 
 ## Download the repository
